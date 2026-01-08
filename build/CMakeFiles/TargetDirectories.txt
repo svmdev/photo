@@ -1,0 +1,8 @@
+/t/dev/photo/build/CMakeFiles/photo.dir
+/t/dev/photo/build/CMakeFiles/edit_cache.dir
+/t/dev/photo/build/CMakeFiles/rebuild_cache.dir
+/t/dlib/build/CMakeFiles/edit_cache.dir
+/t/dlib/build/CMakeFiles/rebuild_cache.dir
+/t/dlib/build/dlib/CMakeFiles/dlib.dir
+/t/dlib/build/dlib/CMakeFiles/edit_cache.dir
+/t/dlib/build/dlib/CMakeFiles/rebuild_cache.dir

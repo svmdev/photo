@@ -1,0 +1,27 @@
+{
+	"workbench.colorTheme": "Visual Studio Dark",
+	"workbench.editor.wrapTabs": true,
+	// Форматирование и внешний вид
+	"editor.formatOnType": true,
+	"editor.detectIndentation": true,
+	"editor.tabSize": 4,
+	"editor.fontSize": 18,
+	"editor.lineNumbers": "off",
+	"editor.bracketPairColorization.enabled": false,
+	"editor.autoIndent": "full",
+	"editor.insertSpaces": false,
+	"editor.formatOnSave": true,
+	"editor.wrappingIndent": "indent",
+	// Задержка подсказки по курсором мыши
+	"editor.hover.delay": 1500,
+	"window.zoomLevel": 1.75,
+	//
+	"editor.codeLens": false,
+	"csharp.semanticHighlighting.enabled": true,
+	"csharp.suppressBuildAssetsNotification": true,
+	"files.watcherExclude": {
+		"**/.git/objects/**": true,
+		"**/.git/subtree-cache/**": true,
+		"**/node_modules/*/**": true
+	}
+}
