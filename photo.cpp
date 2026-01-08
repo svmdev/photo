@@ -124,7 +124,6 @@ int index_from_file(std::filesystem::path index_file, std::map<std::string, std:
     {
         std::string key;
         std::getline(infile >> std::ws, key);
-        //infile.ignore();  '\n'
 
         if (infile.eof())
         {
